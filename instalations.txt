@@ -1,0 +1,6 @@
+npm install @nestjs/passport passport passport-github2
+
+npm i --save @nestjs/config
+
+npm install express-session
+npm install -D @types/express-session
